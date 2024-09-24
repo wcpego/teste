@@ -3,4 +3,5 @@ Save Format v3.0(19990112)
  "global.pbl" "";
 @end;
 @begin Objects
+ "global1.srw" "global.pbl";
 @end;
