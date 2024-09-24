@@ -3,4 +3,5 @@ Save Format v3.0(19990112)
  "test.pbl" "";
 @end;
 @begin Objects
+ "test.sra" "test.pbl";
 @end;
