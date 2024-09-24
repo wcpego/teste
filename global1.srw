@@ -43,7 +43,7 @@ integer y = 104
 integer width = 3470
 integer height = 1116
 integer taborder = 20
-string title = "none"
+string title = "testeeeee"
 boolean livescroll = true
 borderstyle borderstyle = stylelowered!
 end type
