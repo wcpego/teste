@@ -61,7 +61,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "none"
+string text = "teste Wesley 2"
 end type
 
 type cb_2 from commandbutton within global1
